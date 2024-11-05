@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ugaqauki.github.io/XLm/sitemap_index.txt
+Sitemap: https://ugaqauki.github.io/ZxK/sitemap_index.txt
+Sitemap: https://ugaqauki.github.io/asN/sitemap_index.txt
+Sitemap: https://ugaqauki.github.io/iSy/sitemap_index.txt
